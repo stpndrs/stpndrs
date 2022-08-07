@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: stevanandreas7889@gmail.com
 - 🌐 My Social Media: 
         
-     - My instagram: <a href="https://instagram.com/stpndrs20" target="_blank">stpndrs20</a>
-     - My personal website: <a href="https://stevanandreas.com" target="_blank">stevanandreas.com</a>
+     - My instagram: <a href="https://instagram.com/stpndrs20">stpndrs20</a>
+     - My personal website: <a href="https://stevanandreas.com">stevanandreas.com</a>
 
