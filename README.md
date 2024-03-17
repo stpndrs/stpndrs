@@ -11,6 +11,8 @@ Here are some ideas to get you started:
      - My instagram: <a href="https://instagram.com/stpndrs20">stpndrs20</a>
      - My personal website: <a href="https://stevanandreas.com">stevanandreas.com</a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=stpndrs)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stpndrs20) 
 
