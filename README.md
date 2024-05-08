@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: stevanandreas7889@gmail.com
 - 🌐 My Social Media: 
         
-     - My instagram: <a href="https://instagram.com/stpndrs20">stpndrs20</a>
-     - My personal website: <a href="https://stevanandreas.com">stevanandreas.com</a>
+     - My instagram: <a href="https://instagram.com/stpndrs20">@stpndrs20</a>
+     - My personal website: <a href="https://stevanandreas.my.id">https://stevanandreas.my.id</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stpndrs)](https://github.com/ryo-ma/github-profile-trophy)
 
