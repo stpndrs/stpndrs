@@ -3,7 +3,7 @@
 I'm Stevan Andreas
 
 Here are some ideas to get you started:
-- 🏫 I study at SMK Negeri 7 Samarinda
+- 🏫 I study at Telkom University Surabaya
 - 🌱 I’m currently learning PHP and other backend technologies
 - 📫 How to reach me: stevanandreas7889@gmail.com
 - 🌐 My Social Media: 
